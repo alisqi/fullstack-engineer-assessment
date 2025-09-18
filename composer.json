@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^8.4",
+    "twig/twig": "^v3.21.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^12.3"
+  }
+}
