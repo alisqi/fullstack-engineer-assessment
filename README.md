@@ -11,7 +11,7 @@ Using your best judgement, reimplement this functionality to:
 * Adopt OOP principles (either a framework or your own implementation)
 * Perform unit testing
 
-See [[#The AlisQI Stack]] for what we use.
+See [the AlisQI Stack](#the-alisqi-stack) for what we use.
 
 # Considerations and Tips
 * Consider what happens if a user inputs invalid values
