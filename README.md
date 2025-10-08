@@ -1,5 +1,5 @@
 # Overview
-This is a generic calculator that uses the Twig expression engine to perform calculations. We would like for you to improve it in your own way, so it could be used by a customer to perform test calculations using their own expressions.
+In this repository is a generic calculator that uses the Twig expression engine to perform calculations. We would like for you to improve it in your own way, so it could be used by a customer to perform test calculations using their own expressions.
 
 This test is based on a production-deployed solution that our customers use daily: the [AlisQI Expression Engine](https://help.alisqi.com/advanced-calculations)
 
@@ -19,12 +19,14 @@ See [the AlisQI Stack](#the-alisqi-stack) for what we use.
 * Could results be saved or cached in any way?
 * Security considerations -- what are the risks and how can you mitigate them?
 
+We are interested in your approach and considerations, rather than the perfect solution. Please try to not spend more than a couple of hours on the assessment ;)
+
 # The AlisQI Stack
 How you build your solution is entirely up to you! For reference, here is our stack:
 * PHP 8
 * MariaDB 11
 * Redis
-* Twig + Hotwire + Stimulus
+* Twig + [Hotwire](https://hotwired.dev/) + [Stimulus](https://stimulus.hotwired.dev/)
 * Symfony Components
 * Docker
 
