@@ -35,5 +35,5 @@ How you build your solution is entirely up to you! For reference, here is our st
 Create a private repository, and invite [@chemicalstrawberry](https://github.com/chemicalstrawberry) as a read-only participant.
 
 ## Email
-Zip/Tarball your project folder (don't forget to include your `.git` folder!), and email it to [james@alisqi.com](james@alisqi.com).
+Zip/Tarball your project folder (don't forget to include your `.git` folder!), and email it to [frank@alisqi.com](frank @alisqi.com).
 
