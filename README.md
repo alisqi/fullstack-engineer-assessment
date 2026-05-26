@@ -32,7 +32,7 @@ How you build your solution is entirely up to you! For reference, here is our st
 
 # Delivering your solution
 ## Github
-Create a private repository, and invite (https://github.com/orgs/alisqi/people/PrinsFrankAlisQI)) as a read-only participant.
+Create a private repository, and invite ([https://github.com/orgs/alisqi/people/PrinsFrankAlisQI](https://github.com/PrinsFrankAlisQI) as a read-only participant.
 
 ## Email
 Zip/Tarball your project folder (don't forget to include your `.git` folder!), and email it to (frank@alisqi.com).
